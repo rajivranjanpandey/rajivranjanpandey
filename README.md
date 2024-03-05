@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajivranjanpandey
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning mongodb,elasticsearch,sql
-- 📫 How to reach me => mail at: raj.pandey914@gmailc.om
+- 📫 How to reach me => mail at: raj.pandey914@gmail.com
 
 <!---
 rajivranjanpandey/rajivranjanpandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
